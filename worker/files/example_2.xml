@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 2023, v.5000-->
+<Functional_Data_IU confmig="90" ifsid="6000026789" iuid="iu567" miuid="" configlength="0"
+  iupublished="1" IceCode="60.89.20-D.20.B.20" Version="1" LastDateModif="15 January 2024"
+  ValidationDate="Jan 2024">
+  <Title>
+    <Text>ADVANCED HEATING SYSTEM - Overview (60.89.20-D.20.B.20)</Text>
+  </Title>
+  <Sub_Title>
+    <Text>Heating Unit</Text>
+  </Sub_Title>
+  <Illustration>
+    <Illustration_Config>
+      <Image>
+        <Image_Config fileref="6000026788" internalid="iu567img1" internalref="iu5676000026788"
+          pageheight="2" pagewidth="1.5" name="210045" number="1" original-pagewidth="1.5">
+          <Image_Annotation anno_seq="00001" />
+          <Image_Compound fileref="6000026788.PNG" />
+        </Image_Config>
+      </Image>
+      <Text></Text>
+      <List>
+        <Text>Key Components of the Heating Unit</Text>
+        <ListItem>
+          <Para>
+            <ParaCfg>
+              <Text>Heat Exchanger</Text>
+            </ParaCfg>
+          </Para>
+        </ListItem>
+        <ListItem>
+          <Para>
+            <ParaCfg>
+              <Text>Insulated Chamber with Capacity <Physical_Data>
+                  <Value>3</Value>
+                  <Unit>L</Unit>
+                </Physical_Data></Text>
+            </ParaCfg>
+          </Para>
+        </ListItem>
+        <ListItem>
+          <Para>
+            <ParaCfg>
+              <Text>Inspection Cover with Integrated Timer</Text>
+            </ParaCfg>
+          </Para>
+        </ListItem>
+        <ListItem>
+          <Para>
+            <ParaCfg>
+              <Text>Overpressure Valve, rated at <Physical_Data>
+                  <Value>200</Value>
+                  <Unit>psi</Unit>
+                </Physical_Data></Text>
+            </ParaCfg>
+          </Para>
+        </ListItem>
+      </List>
+    </Illustration_Config>
+  </Illustration>
+</Functional_Data_IU>

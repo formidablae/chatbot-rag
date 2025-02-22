@@ -1,0 +1,6 @@
+"Product ID","Product Name","Category","Stock Quantity","Reorder Level","Supplier","Unit Price","Last Order Date","Comments"
+"P1001","Product X","Electronics",250,75,"Omega Supplies",20.00,"2024-02-28","Stock stable"
+"P1002","Product Y","Office Supplies",180,50,"Delta Distributors",35.50,"2024-03-05","Monitor inventory"
+"P1003","Product Z","Industrial",300,100,"Sigma Trading",12.75,"2024-02-20","High turnover"
+"P1004","Product W","Electronics",90,40,"Lambda Components",99.99,"2024-03-01","Reorder pending"
+"P1005","Product V","Accessories",500,150,"Alpha Imports",8.50,"2024-02-15","Overstocked"

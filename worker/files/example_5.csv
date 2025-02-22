@@ -1,0 +1,5 @@
+"Transaction ID","Date","Customer","Product","Category","Region","Quantity","Unit Price","Discount %","Subtotal","Tax","Total","Comments"
+"TX2001","2024-03-10","Omega Corp","Product X","Electronics","North",15,20.00,7,"=15*20*(1-7/100)","=15*20*(1-7/100)*0.1","=15*20*(1-7/100)*1.1","Initial order"
+"TX2002","2024-03-11","Delta LLC","Product Y","Office Supplies","South",8,35.50,5,"=8*35.50*(1-5/100)","=8*35.50*(1-5/100)*0.1","=8*35.50*(1-5/100)*1.1","Express delivery"
+"TX2003","2024-03-12","Sigma Ltd","Product Z","Industrial","East",22,12.75,0,"=22*12.75*(1-0/100)","=22*12.75*(1-0/100)*0.1","=22*12.75*(1-0/100)*1.1","Bulk purchase"
+"TX2004","2024-03-13","Lambda Inc","Product W","Electronics","West",5,99.99,10,"=5*99.99*(1-10/100)","=5*99.99*(1-10/100)*0.1","=5*99.99*(1-10/100)*1.1","Priority client"

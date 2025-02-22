@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Arbortext, Inc., 2023, v.5000-->
+<Technical_Data_IU confmig="90" ifsid="6000023456" iuid="iu2023" miuid="" configlength="0"
+  iupublished="1" IceCode="60.12-B.30.C.40" Version="2" LastDateModif="10 December 2023"
+  ValidationDate="Dec 2023">
+  <Title>
+    <Text>INNOVATIVE COOLING SYSTEMS - Technical Data - SPECIFICATIONS AND PARAMETERS
+      (60.12-B.30.C.40)</Text>
+  </Title>
+  <Extra_Title>
+    <Text>— SPECIFICATIONS AND PARAMETERS</Text>
+  </Extra_Title>
+  <table>
+    <tgroup cols="2">
+      <colspec colname="col1" />
+      <colspec colname="col2" />
+      <thead>
+        <row>
+          <entry valign="top" nameend="col2" namest="col1">
+            <Text>FEATURE</Text>
+          </entry>
+        </row>
+      </thead>
+      <tbody>
+        <row>
+          <entry nameend="col2" namest="col1">
+            <Text>Pressure Regulator</Text>
+          </entry>
+        </row>
+        <row>
+          <entry nameend="col2" namest="col1">
+            <List labeltype="bullet" ordered="no">
+              <Text></Text>
+              <ListItem>
+                <Para>
+                  <ParaCfg>
+                    <Text>Model: <Text_NoTrans>ACME-PRX-100</Text_NoTrans></Text>
+                  </ParaCfg>
+                </Para>
+              </ListItem>
+            </List>
+          </entry>
+        </row>
+        <row>
+          <entry>
+            <Text>Opening Pressure</Text>
+          </entry>
+          <entry valign="middle" align="center">
+            <Text>
+              <Range>
+                <Min_Value>5.0</Min_Value>
+                <Max_Value>5.5</Max_Value>
+                <Unit>psi</Unit>
+              </Range>
+            </Text>
+          </entry>
+        </row>
+        <row>
+          <entry>
+            <Text>Closing Pressure</Text>
+          </entry>
+          <entry valign="middle" align="center">
+            <Text>
+              <Physical_Data>
+                <Value>4.5</Value>
+                <Unit>psi</Unit>
+              </Physical_Data>
+            </Text>
+          </entry>
+        </row>
+        <row>
+          <entry nameend="col2" namest="col1">
+            <Text>Electrohydraulic Valves</Text>
+          </entry>
+        </row>
+        <row>
+          <entry nameend="col2" namest="col1">
+            <List labeltype="bullet" ordered="no">
+              <Text></Text>
+              <ListItem>
+                <Para>
+                  <ParaCfg>
+                    <Text>Type: <Text_NoTrans>HYDRO-MAX 2000</Text_NoTrans></Text>
+                  </ParaCfg>
+                </Para>
+              </ListItem>
+            </List>
+          </entry>
+        </row>
+        <row>
+          <entry>
+            <Text>Power Supply Voltage</Text>
+          </entry>
+          <entry valign="middle" align="center">
+            <Text>
+              <Range>
+                <Min_Value>110</Min_Value>
+                <Max_Value>220</Max_Value>
+                <Unit>V</Unit>
+              </Range>
+            </Text>
+          </entry>
+        </row>
+        <row>
+          <entry>
+            <Text>Current Draw</Text>
+          </entry>
+          <entry valign="middle" align="center">
+            <Text>
+              <Range>
+                <Min_Value>1.2</Min_Value>
+                <Max_Value>1.5</Max_Value>
+                <Unit>A</Unit>
+              </Range>
+            </Text>
+          </entry>
+        </row>
+        <row>
+          <entry>
+            <Text>Operating Pressure</Text>
+          </entry>
+          <entry valign="middle" align="center">
+            <Text>
+              <Range>
+                <Min_Value>2</Min_Value>
+                <Max_Value>8</Max_Value>
+                <Unit>bar</Unit>
+              </Range>
+            </Text>
+          </entry>
+        </row>
+        <row>
+          <entry>
+            <Text>Tightening Torque</Text>
+          </entry>
+          <entry valign="middle" align="center">
+            <Text> Max <Physical_Data>
+                <Value>15</Value>
+                <Unit>N·m</Unit>
+              </Physical_Data>
+            </Text>
+          </entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+</Technical_Data_IU>
